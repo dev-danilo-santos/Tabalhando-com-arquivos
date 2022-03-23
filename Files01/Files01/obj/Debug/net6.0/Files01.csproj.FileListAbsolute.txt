@@ -1,0 +1,15 @@
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\Files01\Files01\bin\Debug\net6.0\Files01.exe
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\Files01\Files01\bin\Debug\net6.0\Files01.deps.json
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\Files01\Files01\bin\Debug\net6.0\Files01.runtimeconfig.json
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\Files01\Files01\bin\Debug\net6.0\Files01.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\Files01\Files01\bin\Debug\net6.0\Files01.pdb
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\Files01\Files01\obj\Debug\net6.0\Files01.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\Files01\Files01\obj\Debug\net6.0\Files01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\Files01\Files01\obj\Debug\net6.0\Files01.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\Files01\Files01\obj\Debug\net6.0\Files01.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\Files01\Files01\obj\Debug\net6.0\Files01.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\Files01\Files01\obj\Debug\net6.0\Files01.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\Files01\Files01\obj\Debug\net6.0\refint\Files01.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\Files01\Files01\obj\Debug\net6.0\Files01.pdb
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\Files01\Files01\obj\Debug\net6.0\Files01.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\Files01\Files01\obj\Debug\net6.0\ref\Files01.dll

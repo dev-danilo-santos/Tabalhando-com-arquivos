@@ -1,0 +1,15 @@
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\FilesStreams02\FilesStreams02\bin\Debug\net6.0\FilesStreams02.exe
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\FilesStreams02\FilesStreams02\bin\Debug\net6.0\FilesStreams02.deps.json
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\FilesStreams02\FilesStreams02\bin\Debug\net6.0\FilesStreams02.runtimeconfig.json
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\FilesStreams02\FilesStreams02\bin\Debug\net6.0\FilesStreams02.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\FilesStreams02\FilesStreams02\bin\Debug\net6.0\FilesStreams02.pdb
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\FilesStreams02\FilesStreams02\obj\Debug\net6.0\FilesStreams02.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\FilesStreams02\FilesStreams02\obj\Debug\net6.0\FilesStreams02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\FilesStreams02\FilesStreams02\obj\Debug\net6.0\FilesStreams02.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\FilesStreams02\FilesStreams02\obj\Debug\net6.0\FilesStreams02.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\FilesStreams02\FilesStreams02\obj\Debug\net6.0\FilesStreams02.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\FilesStreams02\FilesStreams02\obj\Debug\net6.0\FilesStreams02.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\FilesStreams02\FilesStreams02\obj\Debug\net6.0\refint\FilesStreams02.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\FilesStreams02\FilesStreams02\obj\Debug\net6.0\FilesStreams02.pdb
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\FilesStreams02\FilesStreams02\obj\Debug\net6.0\FilesStreams02.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\FilesStreams02\FilesStreams02\obj\Debug\net6.0\ref\FilesStreams02.dll

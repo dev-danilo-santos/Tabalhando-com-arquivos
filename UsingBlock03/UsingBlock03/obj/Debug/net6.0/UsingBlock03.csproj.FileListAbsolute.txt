@@ -1,0 +1,15 @@
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\UsingBlock03\UsingBlock03\bin\Debug\net6.0\UsingBlock03.exe
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\UsingBlock03\UsingBlock03\bin\Debug\net6.0\UsingBlock03.deps.json
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\UsingBlock03\UsingBlock03\bin\Debug\net6.0\UsingBlock03.runtimeconfig.json
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\UsingBlock03\UsingBlock03\bin\Debug\net6.0\UsingBlock03.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\UsingBlock03\UsingBlock03\bin\Debug\net6.0\UsingBlock03.pdb
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\UsingBlock03\UsingBlock03\obj\Debug\net6.0\UsingBlock03.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\UsingBlock03\UsingBlock03\obj\Debug\net6.0\UsingBlock03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\UsingBlock03\UsingBlock03\obj\Debug\net6.0\UsingBlock03.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\UsingBlock03\UsingBlock03\obj\Debug\net6.0\UsingBlock03.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\UsingBlock03\UsingBlock03\obj\Debug\net6.0\UsingBlock03.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\UsingBlock03\UsingBlock03\obj\Debug\net6.0\UsingBlock03.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\UsingBlock03\UsingBlock03\obj\Debug\net6.0\refint\UsingBlock03.dll
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\UsingBlock03\UsingBlock03\obj\Debug\net6.0\UsingBlock03.pdb
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\UsingBlock03\UsingBlock03\obj\Debug\net6.0\UsingBlock03.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Área de Trabalho\Workspace c#\VS\Workspace Files\UsingBlock03\UsingBlock03\obj\Debug\net6.0\ref\UsingBlock03.dll
